@@ -774,7 +774,7 @@
 					};
 					F43502791A6791B200038A29 = {
 						CreatedOnToolsVersion = 6.1.1;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 0900;
 					};
 					F451E3C4195B8CD80051434C = {
 						CreatedOnToolsVersion = 6.0;
